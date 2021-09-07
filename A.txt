@@ -1,3 +1,11 @@
 AAAAAAAAAAAAAAA
 Samples expected from sequencing core 2013-01-10
 today is sunday
+\n\nNew changes to A
+\n\nMaize reference genome version: refgen3
+\n\nMaize reference genome version: refgen3
+\\n\nMaize reference genome version: refgen3
+\n\nMaize reference genome version: refgen3
+\n\nMaize reference genome version: refgen3
+\n Maize reference genome version: refgen3
+\n Maize reference genome version: refgen3
